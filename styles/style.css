@@ -290,6 +290,7 @@
   margin: 0;
 }
 
+/* Seção Membership */
 .membership {
   padding: 100px 0 140px;
   background-color: #057bf2;
@@ -334,7 +335,7 @@
 .step__description {
   margin: 10px 0 0;
 }
-
+/* Rodapé */
 .footer {
   box-sizing: border-box;
   background-color: #1f1f1f;
